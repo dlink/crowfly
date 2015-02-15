@@ -1,0 +1,46 @@
+body {
+   background-color: lightyellow;
+   font-family: Verdana,Sans-serif; 
+   font-weight: 500;
+}
+p#title {
+   color: purple;
+   text-align: center;
+   font-size: 1.2em;
+   font-style: italic;
+}
+
+p.Larger {
+   font-size: 1.3em;
+}
+
+a.MainLink:link {
+   color: black;
+   text-decoration: none;
+}
+a.MainLink:visited { 
+   color: black;
+   text-decoration: none;
+}
+a.MainLink:hover {
+   color: grey;
+   background-color: yellow;
+}
+a:MainLink:active {
+   color: black;
+}
+
+a.SimpleLink:link {
+   color: blue;
+   text-decoration: none;
+}
+a.SimpleLink:visited { 
+   color: blue;
+   text-decoration: none;
+}
+a.SimpleLink:hover {
+   color: grey;
+}
+a:SimpleLink:active {
+   color: black;
+}

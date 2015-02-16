@@ -11,3 +11,12 @@ p#main_links {
    text-align: center;
 }
 
+table.center {
+   margin-left:auto; 
+   margin-right:auto;
+}
+#sites table td {
+   text-align: center;
+   vertical-align: bottom;
+   padding: 20px;
+}

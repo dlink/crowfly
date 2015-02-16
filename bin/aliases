@@ -1,0 +1,5 @@
+export c=$HOME/crowfly   ; alias c='cd $c'
+export cw=$c/www         ; alias cw='cd $cw'
+export cb=$c/bin         ; alias cb='cd $cb'
+export cwi=$cw/images    ; alias cwi='cd $cwi'
+export cc=$c/conf        ; alias cc='cd $cc'

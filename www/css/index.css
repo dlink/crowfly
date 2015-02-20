@@ -19,6 +19,10 @@ table.center {
    margin-left:auto;
    margin-right:auto;
 }
+.tableHeader {
+   margin-left:auto;
+   margin-right:auto;
+}
 #sites table {
    border: 1px solid black;
 }

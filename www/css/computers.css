@@ -1,0 +1,49 @@
+body {
+   // font-style: italic;
+}
+
+img#crowfly_image {
+   //display: block;
+   // width: 200;
+   // margin: auto;
+}
+
+#logo table {
+   margin-bottom: 30px;
+}
+#logo table td p {
+   margin: 0;
+}
+#companyName {
+   font-family: "Times New Roman", Georgia, Serif;
+   font-size: 2em;
+}
+p#main_links {
+   font-size: 1em;
+   text-align: center;
+}
+
+.normal {
+   text-align: center;
+}
+
+table.center {
+   margin-left:auto;
+   margin-right:auto;
+}
+.tableHeader {
+   margin-left:auto;
+   margin-right:auto;
+}
+#sites table {
+   border: 1px solid black;
+}
+
+#sites table td {
+   text-align: center;
+   vertical-align: bottom;
+   padding: 20px;
+}
+#footer {
+  margin-top: 2x0px;
+}

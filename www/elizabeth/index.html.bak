@@ -3,34 +3,13 @@
    <title>Elizabeth's Page</title>
 </head>
 
-<style>
-/* this is css */
-.picture {
-   float: left;
-   padding: 20px;
-}
-.end-picture {
-   clear: both;
-}
-</style>
-
-
 <body bgcolor="#FFA07A">
 <h1>ELIZABETH'S PAGE</h1>
 <center>
+<img src="Liz Bird of Paradiso.jpg" />
 
-<div class="picture">
-   <img src="Liz Bird of Paradiso.jpg" />
-   <h2>Puerto Rico, 2012</h2>
-</div>
-
-<div class="picture">
-   <img src="Siber_face.png" height="640px" />
-   <h2>My Dog Siberious</h2>
-</div>
-
-<div class="end-picture"></div>
-
+<img src="Siber_face.png" height="640px" />
+<h2>Puerto Rico, 2012</h2>
 </center>
 <br>
 <br>

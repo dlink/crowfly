@@ -41,7 +41,7 @@ table.center {
 
 #sites table td {
    text-align: center;
-   vertical-align: bottom;
+   vertical-align: top;
    padding: 20px;
 }
 #footer {
